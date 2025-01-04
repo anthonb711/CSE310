@@ -3,7 +3,7 @@
 
 ## W01:
 ### Assignments
-- [Coming Soon](https://github.com/anthonb711/)
+- [Hello World](https://github.com/anthonb711/HelloWorld)
 
 ## W02:
 ### Assignments
