@@ -7,7 +7,7 @@
 
 ## W02:
 ### Assignments
-- [Coming Soon](https://github.com/anthonb711/)
+- [C++ Calculator App - Module 1](https://github.com/anthonb711/cpp_calculator)
 
 ## W03:
 ### Assignments
