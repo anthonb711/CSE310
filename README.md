@@ -11,7 +11,7 @@
 
 ## W03:
 ### Assignments
-- [Coming Soon](https://github.com/anthonb711/)
+- [Kotlin Calculator App - Module 2](https://github.com/anthonb711/kotlin_calculator)
 
 ## W04:
 ### Assignments
